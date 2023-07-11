@@ -7,4 +7,9 @@ Input: A file with the first line containing the number of rows of the matrix, f
 
 Output: The converged solution result of the program, which can be saved in any user-specified file.
 
-The repository includes: The file "PBL1.c" contains the source code of the program, the file "PBL1.exe" is the executable file of the program, the file "f1.txt" contains a sample matrix for the program, the file "f2.txt" is an empty file to test the program's file reading capability, and finally, the file "rs1.txt" is used to save the computation results of the program.
+The repository includes: 
+1. The file "PBL1.c" contains the source code of the program.
+2. The file "PBL1.exe" is the executable file of the program.
+3. The file "f1.txt" contains a sample matrix for the program.
+4. The file "f2.txt" is an empty file to test the program's file reading capability.
+5. Finally, the file "rs1.txt" is used to save the computation results of the program.
