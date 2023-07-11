@@ -1,1 +1,3 @@
+Vecto nghiem (gan dung) cua he phuong trinh nhap tu:
+
 -----> File f1.txt la:        1.000     1.000     1.001
