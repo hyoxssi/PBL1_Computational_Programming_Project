@@ -1,5 +1,5 @@
 # PBL1_Computational_Programming_Project
-This is a Computational Programming Project carried out in my second term of First year studying in Danang University of Science an Technology.
+This is a Computational Programming Project carried out by myself in the second term of First year studying in Danang University of Science an Technology.
 
 The program utilizes the residual reduction method in computational methods to solve systems of linear algebraic equations using the C programming language for completion. It's a console application with a simple, easy-to-use interface.
 
